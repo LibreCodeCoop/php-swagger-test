@@ -10,6 +10,7 @@ use ByJG\Util\MultiPartItem;
 use ByJG\Util\Psr7\Request;
 use ByJG\Util\Psr7\Response;
 use ByJG\Util\Uri;
+use ByJG\Util\Psr7\MemoryStream;
 
 /**
  * Class TestingTestCase
